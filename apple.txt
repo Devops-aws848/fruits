@@ -7,5 +7,5 @@ kings:
   - name: "King Midas"
     era: "Ancient Greece"
     story: |
-      King Midas loved silver more than anything. When he was granted one wish...
-      everything he touched turned to silver — even his daughter.
+      King Midas loved gold more than anything. When he was granted one wish...
+      everything he touched turned to gold — even his daughter.
